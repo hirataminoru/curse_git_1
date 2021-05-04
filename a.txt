@@ -3,3 +3,4 @@ uma
 atualizacao
 de Arquivo 2
 Enviando a funcionalidade X
+Enviando a funcionalidade b
